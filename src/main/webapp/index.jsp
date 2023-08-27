@@ -4,7 +4,7 @@
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS THE SECOND VERSION OF OUR APP</h1>
 	<h2 style="color: bule; font-size: 30px;" align="center">WELCOME TO FRONTLINES MEDIA</h2>
 	<h2 style="color: yellow; font-size: 30px;" align="center">THIS IS MANUAL DEPLOYMENT</h2>
-	<h2 style="color: yellow; font-size: 30px;" align="center">THIS IS CODE IS DEPLOYED TO TOMCAT</h2>
+	<h2 style="color: blue; font-size: 35px;" align="center">THIS CODE IS DEPLOYED TO TOMCAT SERVER</h2>
 
 	
 	
